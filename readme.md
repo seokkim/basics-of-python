@@ -1,1 +1,5 @@
 # readme
+
+ - basics
+ - of
+ - python
