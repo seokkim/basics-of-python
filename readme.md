@@ -1,5 +1,5 @@
 # readme
 
- - basics
- - of
- - python
+> basics
+>  of
+>  python
